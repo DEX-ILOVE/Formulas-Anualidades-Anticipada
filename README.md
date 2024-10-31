@@ -6,7 +6,7 @@ Este repositorio contiene una recopliacion de formulas y ejemplo relacionado con
 Con el siguiente codigo usted puede cargar las funciones relativas a los calculos de anualidades anticipadas 
 
 ```{r}
-source("https://raw.githubusercontent.com/DEX-ILOVE/Formulas-Anualidades-Anticipada/refs/heads/main/Anualidades%20Anticipadas.R")
+https://raw.githubusercontent.com/DEX-ILOVE/Formulas-Anualidades-Anticipada/refs/heads/main/Anualidades%20Anticipadas.R
 ```
 A continuacion se dan ejemplos del uso de las formulas correspondientes
 

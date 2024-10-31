@@ -15,7 +15,9 @@ Para ilustrar el ejemplo se tienen los siguientes valores
 ### VALOR FUTURO
 
 $ANUALIDAD$ = 10000
+
 $TASA$ = 0.05
+
 $N$ = 5
 
 se realizan los calculos 
